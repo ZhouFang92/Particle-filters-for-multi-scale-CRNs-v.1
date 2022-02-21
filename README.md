@@ -1,4 +1,4 @@
 # Particle-filters-for-multi-scale-CRNs-v.1
 README
 
-This project provides sequential importance resampling particle filters for two specific gene reaction networks. The filter is established based on hybrid approximations of those models and can accurately approximate the actual filter when the particle population is large. A paper on  the derivation and analysis of the filter will come later.
+This project provides sequential importance resampling particle filters for two specific gene reaction networks. The filter is established based on hybrid approximations of those models and can accurately approximate the actual filter when the particle population is large. Please see  for the derivation and analysis of these filters.
