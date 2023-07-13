@@ -29,7 +29,7 @@ if j==6
 end
 
 if j==7
-    a=K(7)*N*X(1)*(N*X(1)-1);
+    a=abs(K(7)*N*X(1)*(N*X(1)-1));
 end
 
 if j==8
